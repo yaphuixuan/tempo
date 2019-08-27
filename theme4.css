@@ -5,6 +5,9 @@ body {
   background-image: url("pastel-watercolour-background.jpg");
   background-repeat: no-repeat;
   background-position:center;
+  background-attachment:fixed;
+  background-size: auto;
+	 background-size:1290px 768px;
 }
 h1   {color: darkslateblue;}
 
